@@ -1,0 +1,14 @@
+/Users/aprouzea/Documents/Sandbox/AdventOfCode_C#/bin/Debug/net8.0/AdventOfCode_C#
+/Users/aprouzea/Documents/Sandbox/AdventOfCode_C#/bin/Debug/net8.0/AdventOfCode_C#.deps.json
+/Users/aprouzea/Documents/Sandbox/AdventOfCode_C#/bin/Debug/net8.0/AdventOfCode_C#.runtimeconfig.json
+/Users/aprouzea/Documents/Sandbox/AdventOfCode_C#/bin/Debug/net8.0/AdventOfCode_C#.dll
+/Users/aprouzea/Documents/Sandbox/AdventOfCode_C#/bin/Debug/net8.0/AdventOfCode_C#.pdb
+/Users/aprouzea/Documents/Sandbox/AdventOfCode_C#/obj/Debug/net8.0/AdventOfCode_C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aprouzea/Documents/Sandbox/AdventOfCode_C#/obj/Debug/net8.0/AdventOfCode_C#.AssemblyInfoInputs.cache
+/Users/aprouzea/Documents/Sandbox/AdventOfCode_C#/obj/Debug/net8.0/AdventOfCode_C#.AssemblyInfo.cs
+/Users/aprouzea/Documents/Sandbox/AdventOfCode_C#/obj/Debug/net8.0/AdventOfCode_C#.csproj.CoreCompileInputs.cache
+/Users/aprouzea/Documents/Sandbox/AdventOfCode_C#/obj/Debug/net8.0/AdventOfCode_C#.dll
+/Users/aprouzea/Documents/Sandbox/AdventOfCode_C#/obj/Debug/net8.0/refint/AdventOfCode_C#.dll
+/Users/aprouzea/Documents/Sandbox/AdventOfCode_C#/obj/Debug/net8.0/AdventOfCode_C#.pdb
+/Users/aprouzea/Documents/Sandbox/AdventOfCode_C#/obj/Debug/net8.0/AdventOfCode_C#.genruntimeconfig.cache
+/Users/aprouzea/Documents/Sandbox/AdventOfCode_C#/obj/Debug/net8.0/ref/AdventOfCode_C#.dll
