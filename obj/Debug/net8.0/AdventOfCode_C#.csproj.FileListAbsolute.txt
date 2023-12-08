@@ -12,3 +12,4 @@
 /Users/aprouzea/Documents/Sandbox/AdventOfCode_C#/obj/Debug/net8.0/AdventOfCode_C#.pdb
 /Users/aprouzea/Documents/Sandbox/AdventOfCode_C#/obj/Debug/net8.0/AdventOfCode_C#.genruntimeconfig.cache
 /Users/aprouzea/Documents/Sandbox/AdventOfCode_C#/obj/Debug/net8.0/ref/AdventOfCode_C#.dll
+/Users/aprouzea/Documents/Sandbox/AdventOfCode_C#/obj/Debug/net8.0/AdventOfCode_C#.sourcelink.json

@@ -7,6 +7,7 @@ class Program
         
         //Almanach al = new Almanach();
         //BoatRace br = new BoatRace();
-        CamelCard cc = new CamelCard();
+        //CamelCard cc = new CamelCard();
+        Day8 d8 = new Day8();
     }
 }
